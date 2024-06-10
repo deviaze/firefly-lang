@@ -1,0 +1,5 @@
+
+
+let process = require("@lune/process")
+
+let cache = files.readJson("./paths.jsonc")
